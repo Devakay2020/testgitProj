@@ -1,4 +1,3 @@
 # Default ignored files
 /shelf/
-/workspace.xml
-/testspace.xml
+/workspace.xml, /testspace.xml,/testspace2.xml
